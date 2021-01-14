@@ -6,4 +6,4 @@ https://drive.google.com/drive/folders/1GrI1HvtaemsnwhzXUHYiObHeBYq8yNy_
   demorara en ejecutarse el código.
 - o(n) será la complejidad del algoritmo lineal
 - para busqueda binaria sería o(log_2(n))
-
+- lol
