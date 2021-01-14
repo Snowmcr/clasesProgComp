@@ -1,0 +1,9 @@
+https://drive.google.com/drive/folders/1GrI1HvtaemsnwhzXUHYiObHeBYq8yNy_
+
+¿ Qué es la complejidad ?
+- La complejidad de un algoritmo nos dice la cantidad aproximada de procesos
+  que tomará a nuestro computador en ejecutarlo. Esto permite saber cuanto 
+  demorara en ejecutarse el código.
+- o(n) será la complejidad del algoritmo lineal
+- para busqueda binaria sería o(log_2(n))
+
